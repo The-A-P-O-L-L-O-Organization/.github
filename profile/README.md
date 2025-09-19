@@ -1,5 +1,9 @@
 # The A.P.O.L.L.O. Organization
 
+[![GitHub Org's stars](https://img.shields.io/github/stars/The-A-P-O-L-L-O-Organization?style=social)](https://github.com/The-APOLLO-Organization)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=The-APOLLO-Organization)](https://github.com/The-APOLLO-Organization)
+[![Join our Discord](https://img.shields.io/discord/123456789?label=Join%20us%20on%20Discord&logo=discord)](https://discord.gg/WXv46mCz6B)
+
 Welcome to **The A.P.O.L.L.O. Organization**!  
 We're a group of friends and collaborators passionate about building, learning, and experimenting with code. This organization serves as our shared space for projects, ideas, and open-source adventures.
 
